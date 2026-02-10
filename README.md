@@ -4,7 +4,7 @@ This project visualizes air travel passenger data for 1958, 1959, and 1960 in a 
 
 ## Screenshot
 
-![3-Year Line Chart] three_line_chart.png
+![3-Year Line Chart](images/three_line_chart.png)
 
 ## How it was created
 1. Drag **Measure Names** → Color in Marks panel
